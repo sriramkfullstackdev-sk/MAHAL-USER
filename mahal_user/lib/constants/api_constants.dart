@@ -1,3 +1,3 @@
 class ApiConstants {
-  static const String baseUrl = 'http://192.168.29.236:3001/api';
+  static const String baseUrl = 'https://mahal-user.onrender.com/api';
 }
